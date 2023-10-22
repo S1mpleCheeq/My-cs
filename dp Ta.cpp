@@ -27,6 +27,8 @@
 // 4 5 2 6 5
 // 输出样例:
 // 30
+
+cscscscscscs
 #include <bits/stdc++.h>
 using namespace std;
 int ta[100][100];
